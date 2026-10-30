@@ -1,0 +1,6 @@
+{
+  "name": "ApexCalc",
+  "description": "Scientific calculator with 2D function graphing, unit conversions, and advanced trigonometric operations",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
